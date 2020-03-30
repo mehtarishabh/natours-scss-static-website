@@ -1,1 +1,1 @@
-# natours-scss-website
+# natours-scss-static-website

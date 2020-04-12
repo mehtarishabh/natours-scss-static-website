@@ -16,12 +16,21 @@
     margin-top: -10rem;
 
     & > * {
-        transform: skewY(7deg);
+        transform: skewY(7deg);   // Somehow not working
     }
+
+    // & > .row {
+    //     transform: skewY(7deg);
+    // }
 }
 
 .section-tours {
     background-color: $color-grey-light-1;
     padding: 25rem 0 15rem 0;
     margin-top: -10rem;
+}
+
+.section-stories {
+    padding: 15rem 0;
+    position: relative;
 }
